@@ -1,6 +1,6 @@
 # Multithreaded Typing Tutor Game - Project Overview
 
-<img width="466" alt="Screenshot 2024-01-08 214725" src="https://github.com/Athi-sirmatt/Concurrency-Multithreading-Typing-Game/assets/93771863/9617aa6d-9e57-477f-9356-c66ad7f38d32">
+                                 <img width="466" alt="Screenshot 2024-01-08 214725" src="https://github.com/Athi-sirmatt/Concurrency-Multithreading-Typing-Game/assets/93771863/9617aa6d-9e57-477f-9356-c66ad7f38d32">
 
 
 ## Introduction
