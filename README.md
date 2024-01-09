@@ -52,9 +52,3 @@ The Typing Tutor game challenges players to type words before they reach the bot
 ## Acknowledgments
 
 - Original code provided as a base for extension.
-- Project developed as part of an educational assignment.
-- Collaborated with peers to enhance and test the game features.
-
----
-
-**Note:** This project was developed as part of an educational assignment, and its purpose is to showcase skills in Java programming, multithreading, and game development. It may be subject to further improvements and enhancements.
